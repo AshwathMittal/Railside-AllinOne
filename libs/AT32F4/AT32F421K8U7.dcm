@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AT32F421K8U7
+D Microcontroller AT32F421; 32bit ARM CortexM4; 120MHz; FLASH 64kB; SRAM 16kB; COMP; 2.6-3.6V; -40+105 deg.C; QFN32
+K
+F https://www.arterytek.com/download/DS_AT32F421_EN_V1.01.pdf
+$ENDCMP
+#
+#End Doc Library
