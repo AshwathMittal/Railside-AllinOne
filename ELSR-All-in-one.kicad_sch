@@ -1,7 +1,7 @@
 (kicad_sch
-	(version 20250114)
+	(version 20260306)
 	(generator "eeschema")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(uuid "42122916-8497-4c4b-8249-4270daebca34")
 	(paper "A4")
 	(lib_symbols)
@@ -648,11 +648,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "34274d71-ae67-4813-8496-ff4b0d98850c")
 		(property "Sheetname" "STM32"
 			(at 80.01 111.0484 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -662,6 +664,8 @@
 		)
 		(property "Sheetfile" "stm32.kicad_sch"
 			(at 80.01 137.7446 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -800,11 +804,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "6e14ca8b-7f26-4a82-b5cf-3442953e8125")
 		(property "Sheetname" "ELRS"
 			(at 80.01 72.9484 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -814,6 +820,8 @@
 		)
 		(property "Sheetfile" "elrs.kicad_sch"
 			(at 80.01 99.6446 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -862,11 +870,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "cae9e9d8-9148-492a-8825-abd4b3364495")
 		(property "Sheetname" "ESC2"
 			(at 185.42 111.0484 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -876,6 +886,8 @@
 		)
 		(property "Sheetfile" "esc2.kicad_sch"
 			(at 185.42 137.7446 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -974,11 +986,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "e1a1de4e-5c7c-4c50-93d5-d715d589e8a3")
 		(property "Sheetname" "Power Management"
 			(at 118.11 38.6584 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -988,6 +1002,8 @@
 		)
 		(property "Sheetfile" "pm_ciruit.kicad_sch"
 			(at 118.11 65.3546 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1016,11 +1032,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "ecadf06b-1cce-48b0-920b-0c98e3bc0ade")
 		(property "Sheetname" "Peripherals"
 			(at 144.78 72.9484 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1030,6 +1048,8 @@
 		)
 		(property "Sheetfile" "Peripherals.kicad_sch"
 			(at 144.78 99.6446 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1228,11 +1248,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "fe571e6e-65d8-4c64-9d32-bc908d3c1c4d")
 		(property "Sheetname" "ESC1"
 			(at 143.51 111.0484 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1242,6 +1264,8 @@
 		)
 		(property "Sheetfile" "esc1.kicad_sch"
 			(at 143.51 137.7446 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
