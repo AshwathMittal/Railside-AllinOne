@@ -76,40 +76,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "clearance|60974999|67400002|06093cf0-1119-4639-84b0-f9f5b63fb184|5048c870-af35-446d-bdfc-84db3abba89c",
-          ""
-        ],
-        [
-          "clearance|60975000|63600000|13a1829a-bc30-4bcd-8524-64c156f8939a|9837db7b-1d10-4c0e-b39d-8e4659ba4f7f",
-          ""
-        ],
-        [
-          "clearance|63225000|44150000|db6b616e-555e-47ed-9f26-b59a5178f399|9c2cfd25-f950-4304-9fa9-c68f34fa83a2",
-          ""
-        ],
-        [
-          "clearance|63225000|47950000|23223c01-10a2-4a78-924a-a21c9f08036b|7a0d871f-9825-4137-9cf0-9834dcf1507a",
-          ""
-        ],
-        [
-          "clearance|64900002|67525001|64bb0b05-7202-45c9-bb7e-80d58761cb8a|dc00d4d2-fb8f-446b-a95b-f03a5cba029d",
-          ""
-        ],
-        [
-          "clearance|65025001|63599998|e1cfdccc-cb1c-49bb-be30-79f5d726f349|161bd5ed-b978-4b32-9a5b-d4a3dbbb14db",
-          ""
-        ],
-        [
-          "clearance|67150000|48075000|20ccb819-199f-453a-948e-ff698d1671a1|c7459092-534c-4411-af5a-6b9e7296b326",
-          ""
-        ],
-        [
-          "clearance|67275000|44150000|322235a6-d6f8-4dd9-b6e6-dbb74fda0382|4e2e6d59-2bf5-4f0b-a9d2-7f65ed0447c8",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -140,7 +107,7 @@
         "items_not_allowed": "error",
         "length_out_of_range": "error",
         "lib_footprint_issues": "warning",
-        "lib_footprint_mismatch": "warning",
+        "lib_footprint_mismatch": "ignore",
         "malformed_courtyard": "error",
         "microvia_drill_out_of_range": "error",
         "mirrored_text_on_front_layer": "warning",
